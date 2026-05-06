@@ -1,7 +1,7 @@
 # Hazel Mac
 
 <p align="center">
-  <img src="https://img.favpng.com/3/10/9/macos-directory-hazel-png-favpng-bJ8JEQuEm6mm4sf7cg5mpsqPx.jpg" width="200" alt="Hazel icon"/>
+  <img src="https://i0.wp.com/iamsteve.in/wp-content/uploads/2015/02/hazel-hero.png?resize=412%2C259&ssl=1" width="200" alt="Hazel icon"/>
 </p>
 
 <p align="center">
